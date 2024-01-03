@@ -1,2 +1,2 @@
-# bloogingplatform
-bloogingplatform
+# blooging platform
+blooging platform
